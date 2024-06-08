@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Keppuraja E</h1>
-<h3 align="center">Fullstack deverloper</h3>
+<h1 align="center">Hi guys, I'm Keppuraja</h1>
+<h2 align="center">Fullstack Deverloper (MERN)</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keppuraja3&label=Profile%20views&color=0e75b6&style=flat" alt="keppuraja3" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=keppuraja3&label=Profile%20views&color=0e75b6&style=flat" alt="keppuraja3" /> </p>
 
-- 🔭 I’m currently working on [food valley restaruant](https://food-valley-keppu.netlify.app/)
-
+<img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="300" alt="profile gif"/>
+-- I’m currently working on "Food Valley Restaruant" (https://food-valley-keppu.netlify.app/)
+<br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keppuraja3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keppuraja3" height="30" width="40" /></a>
