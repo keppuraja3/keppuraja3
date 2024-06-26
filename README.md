@@ -4,7 +4,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=keppuraja3&label=Profile%20views&color=0e75b6&style=flat" alt="keppuraja3" /> </p>
 
 <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="300" alt="profile gif"/>
--- I’m currently working on "Food Valley Restaruant" (https://food-valley-keppu.netlify.app/)
+-- I’m recently completed "Food Valley Restaruant" project (https://food-valley-keppu.netlify.app/)
 <br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
