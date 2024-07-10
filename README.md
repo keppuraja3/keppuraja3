@@ -1,7 +1,8 @@
 <h2 align="center">Hi guys, I'm Keppuraja</h2>
 <h3 align="center">Fullstack Deverloper (MERN)</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=keppuraja3&label=Profile%20views&color=0e75b6&style=flat" alt="keppuraja3" /> </p>
+<p align="left"><a href="mailto:keppuraja3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-keppuraja3@gmail.com-blue?&logo=gmail"></a></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=keppuraja3&label=Profile%20views&color=0e75b6&style=flat?&logo=profile" alt="keppuraja3"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
