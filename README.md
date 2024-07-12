@@ -19,6 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keppuraja3&theme=tokyonight&" alt="keppuraja3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keppuraja3&theme=tokyonight&show_icons=true&locale=en" alt="keppuraja3" /></p>
-<img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="300" alt="profile gif"/>
+<img src="https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif" width="500px" height="260px" alt="profile gif"/>
 -- I’m recently completed "Food Valley Restaruant" project (https://food-valley-keppu.netlify.app/)
 <br/><br/>
