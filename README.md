@@ -19,5 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keppuraja3&theme=tokyonight&" alt="keppuraja3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keppuraja3&theme=tokyonight&show_icons=true&locale=en" alt="keppuraja3" /></p>
-
-<br/><br/>
